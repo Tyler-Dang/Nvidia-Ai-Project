@@ -1,4 +1,4 @@
-# Project Name
+# Classifying traffic lights
 
  Add short description of project here > 
 
